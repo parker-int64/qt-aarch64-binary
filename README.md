@@ -12,7 +12,7 @@ There are currently two sorts of releases, the cross compiled and native compile
 
 Before you setup the qt, you'll need to get a cross compiler. See [set_cross_compiler](./markdown/set_cross_compiler.md) for more details.
 
-Follow the [cross_compile_qt](./markdown/native_compile_qt.md) for more instructions.
+Follow the [cross_compile_qt](./markdown/cross_compile_qt.md) for more instructions.
 
 
 
